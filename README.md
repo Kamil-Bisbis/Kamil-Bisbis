@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bisbis.kamil@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1MEg9ZsS-iX6s7sCurqTcsYcrzmY-eoZQ-SlmZLtAifs/edit?usp=sharing](https://docs.google.com/document/d/1MEg9ZsS-iX6s7sCurqTcsYcrzmY-eoZQ-SlmZLtAifs/edit?usp=sharing)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1MEg9ZsS-iX6s7sCurqTcsYcrzmY-eoZQ-SlmZLtAifs/edit?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
