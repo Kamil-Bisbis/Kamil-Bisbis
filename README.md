@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Expanding my Darija AI Tutor](https://github.com/Kamil-Bisbis/Darija-AI-Tutor)
 
-- 👨‍💻 All of my projects are available at [kamilbisbis.dev](kamilbisbis.dev)
+- 👨‍💻 All of my projects are available at [kamilbisbis.dev](https://kamilbisbis.dev)
 
 - 📝 I regularly write articles on [https://medium.com/@bisbis.kamil](https://medium.com/@bisbis.kamil)
 
